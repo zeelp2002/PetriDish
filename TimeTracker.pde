@@ -1,9 +1,3 @@
-/**
- * Assignment: Generic Code
- * Author: Mr. Petres
- * Description: Implements a time tracker which has the resolution in millis
- */
-
 class TimeTracker {
   int last; // this variable keeps the last system time when we mark()-ed
 
