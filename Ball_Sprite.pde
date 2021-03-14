@@ -1,7 +1,4 @@
 /**
- * Assignment: Reusable Object
- * Author: Mr. Petres
- * Additions and Modifications: Zeel Patel
  * Description: Implements a ball as a sprite 
  *              This class relies on TimeTracker and Vector90
  */
