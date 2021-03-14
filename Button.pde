@@ -1,9 +1,6 @@
 /**
- * Assignment: [Petri Dish]
- * Author: [Mr.Petres]
- * Date: [May 2 ,2018]
+
  * Description: [Properties of the button and declaring the button position, colour and the text written on the buttons.]
- * Modifications done by Zeel Patel
  */
  
  Button StartStop=new Button();
