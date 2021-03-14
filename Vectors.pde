@@ -1,6 +1,4 @@
 /**
- * Assignment: Reusable Object
- * Author: Mr. Petres
  * Description: Implements a directional vector 
  *              This class can be used with any "Sprite" to implement movement
  *              Direction is specified in degrees as follows:
@@ -9,7 +7,6 @@
  *                          180 --  -- 0
  *                                |
  *                                90
- *
  */
 
 class Vector90 {
